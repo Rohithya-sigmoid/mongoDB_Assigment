@@ -1,8 +1,8 @@
 # mongoDB_Assigment
 
-Installation and Usage
-Clone the repository
-Download and Install Python
+#Installation and Usage
+#Clone the repository
+#Download and Install Python
 Install Pymongo
 pip install pymongo
 Install MongoDB
