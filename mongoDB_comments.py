@@ -58,7 +58,7 @@ def findCommentsInAYear(collection):
 
 # -------- Functions Calling -------------
 
-collection='comments'
-findTop10Comments(collection)
-findTop10Movies(collection)
-findCommentsInAYear(collection)
+# collection='comments'
+# findTop10Comments(collection)
+# findTop10Movies(collection)
+# findCommentsInAYear(collection)
