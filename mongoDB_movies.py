@@ -5,12 +5,10 @@ try:
     client = MongoClient("mongodb://localhost:27017/")
     db = client['sampleData']
 except:
-    print("Error while connecting")
+    print("Error while connecting with mongoserver")
 
 movies=db['movies']
-
 n = int(input("n : "))
-
 # -------------------------Top N movies------------------------
 def topNMovies():
     print('--------------Movies Query---------------')
